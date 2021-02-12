@@ -13,8 +13,8 @@ body {
 
 .container {
   background: #14BDAC;
-  margin: 50px;
-  padding: 50px;
+  margin: 20px;
+  padding: 20px;
   border-radius: 25px;
 }
 
@@ -52,7 +52,7 @@ body {
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
   grid-gap: 15px;
-  margin-top: 50px;
+  margin-top: 20px;
 }
 
 .game-cell {
@@ -61,8 +61,8 @@ body {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  height: 200px;
-  width: 200px;
+  height: 120px;
+  width: 120px;
 }
 
 .x,
